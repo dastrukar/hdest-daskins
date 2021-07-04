@@ -1,0 +1,9 @@
+===Sprites===
+
+---Weapons---
+
+Revolver: Taken from Final Doomer Plus (Plutonia class).
+Pistol: Taken from DRL Arsenal.
+Hunter: Taken from DRL Arsenal. World sprites slightly edited by me.
+ZM66: Taken from Ace's HD Addon. Rotation sprites made by me.
+
