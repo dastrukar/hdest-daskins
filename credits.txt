@@ -3,11 +3,11 @@
 ---Weapons---
 
 [Vanilla]
-Revolver: Taken from Final Doomer Plus (Plutonia class). Slightly edited by me.
-Pistol: Taken from DRL Arsenal.
-Hunter: Taken from DRL Arsenal. World sprites slightly edited by me.
-Slayer: Taken from Final Doomer Plus (Plutonia class). Slightly edited by me. (only took the wooden stock part)
-ZM66: Taken from Ace's HD Addon. Rotation sprites made by me.
+Revolver: Sprite by Skelegant. Taken from Final Doomer Plus (Plutonia class). Slightly edited by me.
+Pistol: Sprite by Sgt. Shivers. Taken from DRL Arsenal (Marksman Pistol).
+Hunter: Sprite by ZikShadow. Taken from DRL Arsenal (Heavy Combat Shotgun). World sprites slightly edited by me.
+Slayer: Sprite by Skelegant. Taken from Final Doomer Plus (Plutonia class). Slightly edited by me. (only took the wooden stock part)
+ZM66: Sprite by Carbine Dioxide/DoomNukem. Taken from Ace's HD Addon. Rotation sprites made by me.
 
 [Peppergrinder]
 Scoped Revolver: Scope sprite is taken directly from Peppergrinder and heavily edited to fit the revolver reskin.
