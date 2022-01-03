@@ -1,0 +1,6 @@
+noir/pain1 noirow1
+noir/pain2 noirow2
+
+$random player/noir/pain { noir/pain1 noir/pain2 }
+
+player/noir/death noirdie
