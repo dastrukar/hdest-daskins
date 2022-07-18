@@ -24,3 +24,9 @@ HUD/Viewsprites by LossForWords. World sprites by Potetobloke. Scope sprite on t
 
 [Peppergrinder]
 Scoped Revolver: Scope sprite is taken directly from Peppergrinder and heavily edited to fit the revolver reskin.
+
+
+===Sounds===
+
+HDNoirSkin:
+Voice lines taken from Plazma Burst 2's Noir
