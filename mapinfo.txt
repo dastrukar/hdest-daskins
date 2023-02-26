@@ -1,0 +1,10 @@
+map range "Firing Range"{
+	sky1="sky1"
+	music="hdestrange"
+	resetinventory
+	nointermission
+	noautosavehint
+	allowrespawn
+	next="range"
+}
+
