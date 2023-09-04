@@ -4,6 +4,11 @@ The Inconceptual One - TJ TechnoiZ (rest in peace)
 
 ===Sprites===
 
+---Skins---
+HDNoirSkin:
+Sprites modified by Deon. Base sprite from Realm667 (Authors: Mark Quinn, Vegeta, Xim, Ghastly_dragon, MagicWazard)
+Taken from [here](https://forum.zdoom.org/viewtopic.php?t=73762).
+
 ---Weapons---
 
 [Vanilla]
